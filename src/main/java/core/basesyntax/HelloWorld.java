@@ -32,7 +32,7 @@ public class HelloWorld {
     }
 
     private void initializeVariables() {
-        hello = "Hello mates!";
+        hello = "Hello Mates!";
         System.out.println(hello);
         variable = LocalDate.now().getYear();
         System.out.println("It is " + variable + "year");
